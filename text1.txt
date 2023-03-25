@@ -1,0 +1,1 @@
+This is the first line being commited from the command line.
